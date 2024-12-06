@@ -1,5 +1,5 @@
 // ls
-import { walk } from "jsr:@std/fs@1"; // jsr
+import { walk } from "jsr:@std/fs"; // jsr
 import { relative } from "node:path"; // node/npm
 
 /** Recursively list out files in a directory */
