@@ -1,5 +1,5 @@
 
-# [Introduction to Deno 2](https://deno.com)
+# [Introduction to Deno 2.0](https://deno.com)
 
 Uncomplicate JavaScript.)
 
