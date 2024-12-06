@@ -5,7 +5,7 @@ Uncomplicate JavaScript.)
 
 Deno is the open-source JavaScript runtime for the modern web.
 
-[Launch Event](https://www.youtube.com/watch?v=d35SlRgVxT8)
+<!-- [Deno 2.0 Launch Event](https://www.youtube.com/watch?v=d35SlRgVxT8) -->
 
 [Deno in 100s](https://www.youtube.com/watch?v=pcC4Dr6Wj2Q)
 
