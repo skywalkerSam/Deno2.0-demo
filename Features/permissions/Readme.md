@@ -1,6 +1,6 @@
-# Permissions w/ Deno 2.0
+# 🤐 Permissions w/ Deno 2.0
 
-So, no one can hold your device for ransome or, mine bitcoin on your PC w/o your consent.)
+Secure by default. So, no one can hold your device for ransome or, mine bitcoin on your PC w/o your consent.)
 
 ## Basic Idea
 
