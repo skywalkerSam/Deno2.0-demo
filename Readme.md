@@ -1,4 +1,3 @@
-
 # Introduction to [Deno 2.0](https://deno.com)
 
 Uncomplicate JavaScript.)
@@ -106,13 +105,13 @@ deno test
 The executable file sizes are huge* because it comes with the minified deno runtime because, JavaScript is a "dynamic language". And If the difference between KB and MB matters to you, you shouldn't be using JavaScript in the first place.)
 
 ```bash
-deno compile main.ts
+deno compile ./main.ts
 ```
 
 ### Cross-compile
 
 ```bash
-deno compile --target=x86_64-unknown-linux-gnu hello.ts
+deno compile --target=x86_64-unknown-linux-gnu ./main.ts
 ```
 
 `Tip:` **--target** for compile options.
