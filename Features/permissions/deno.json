@@ -4,7 +4,7 @@
     "log": "deno run --allow-read --watch main.ts > log.txt",
     "build": "deno run npm:build",
     "executeAll": "deno build ; deno dev",
-    "runIfTrue": "deno build && deno dev",
+    "ifTrue": "deno build && deno dev",
     "fallbackOr": "deno build || deno dev",
     "runAsync": "deno build & deno dev"
   },
