@@ -1,4 +1,4 @@
-# Introduction to [Deno 2.0](https://deno.com)
+# Introduction to [Deno 2](https://deno.com)
 
 Uncomplicate JavaScript.)
 
@@ -10,7 +10,7 @@ Deno is the open-source JavaScript runtime for the modern web.
 
 [Docs](https://docs.deno.com/runtime/)
 
-## Deno 2.0 Features
+## Deno 2 Features
 
 - A modern JavaScript runtime
 
