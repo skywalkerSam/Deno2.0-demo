@@ -1,6 +1,12 @@
 {
   "tasks": {
-    "dev": "deno run --watch main.ts"
+    "dev": "deno run --allow-read --watch main.ts",
+    "log": "deno run --allow-read --watch main.ts > log.txt",
+    "build": "deno run npm:build",
+    "executeAll": "deno build ; deno dev",
+    "runIfTrue": "deno build && deno dev",
+    "fallbackOr": "deno build || deno dev",
+    "runAsync": "deno build & deno dev"
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1"
